@@ -1,6 +1,6 @@
 
 
-let sal = 25000;
+let sal = 20000;
 let BCS = true;
 let dist = "dhaka"
 
