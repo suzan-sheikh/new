@@ -1,6 +1,6 @@
 
 
-let sal = 20000;
+let sal = 2000;
 let BCS = true;
 let dist = "dhaka"
 
@@ -10,3 +10,10 @@ if((sal >= 25000 && BCS == false) || dist == "dhaka" ){
 else{
   console.log("failed")
 }
+
+
+/*
+second class
+*/
+
+let subjectResult [75.25]
